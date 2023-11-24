@@ -1,7 +1,13 @@
 # i2psites
 
 # what is i2p  
+
 https://geti2p.net/
+
+
+# naming and address book
+
+https://geti2p.net/en/docs/naming
 
 # important notes
 
